@@ -1,4 +1,4 @@
-#**Introdução**
+# Introdução
 
 Vesículas extracelulares (EVs) são corpos celulares classificados de acordo com seu tamanho em exossomos (30-200 nm), microvesículas (100-1000 nm) e corpos apoptóticos (> 1000 nm). Seu conteúdo varia dependendo da célula secretora e da condição fisiológica do ambiente em que se encontra. Dentro de EVs são encontradas moléculas como enzimas, receptores, citocinas, e sequencias de núcleotídeos não-codificantes curtas, conhecidas como microRNAs (miRNAs).
 miRNAs possuem de 18-22 nucleotídeos e são capazes de alterar a expressão de genes através de sua interação com sequencias de RNA mensageiro, inibindo a transcrição ou degradando a sequencia com a qual interagiu. Dessa forma, um mesmo miRNA pode atuar regulando a expressão de diversos alvos e estão relacionados com diversos quadros patológicos.
@@ -9,11 +9,26 @@ Figura 1: Esquema demonstrando a secreção de uma vesícula extracelular conten
 
 
 
-**Dados suplementares**
-10 países com maior número de casos de dengue reportados em 2023 e número de casos atuais (2024):
+# **Dados suplementares**
+
+O ano de 2024 apresenta um aumento dos casos de dengue no continente americano, com maior número de casos até o momento em comparação com o ano anterior.
+
 ![LATAM cases](https://github.com/user-attachments/assets/3633281e-5aa8-4c9e-9724-9903390ab0fc)
+Figura 2: 10 países com maior número de casos de dengue reportados em 2023 e número de casos atuais (2024):
 Fonte: (https://www3.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/254-dengue-incidencia-en.html)
 
-# *adicionar aqui* Dados de caracterização de vesículas#
-Adicionar imagens relevantes como a seguinte:
-![all genes-medium specificity- p-0 01](https://github.com/user-attachments/assets/db818da9-0ace-4e1f-add8-0a5bd1045524)
+![image](https://github.com/user-attachments/assets/e400f2c6-507d-46cc-a8d7-2a529a7d2550)
+Rede de miR-Target (mirtarbase)
+
+![all genes-medium specificity- p-0 01_layout2](https://github.com/user-attachments/assets/4f49007d-117b-48aa-b622-d0a3d0147840)
+ClueGO enrichment network
+
+
+
+Enriquecimento
+![Cell Death-Apoptosis Pathways_h_viridis](https://github.com/user-attachments/assets/4d14d1c3-65bc-46f4-a119-6ac34842c60e)
+<img src = "https://github.com/user-attachments/assets/4d14d1c3-65bc-46f4-a119-6ac34842c60e" width="100" height="100">
+
+![DNA Damage-Instability Pathways_h_viridis](https://github.com/user-attachments/assets/61292633-3e66-47bc-ba06-39acbe010cd2)
+
+![image](https://github.com/user-attachments/assets/cb525669-9b67-4475-bfc2-80ee57e9fe06)
