@@ -11,19 +11,25 @@ Figura 1: Esquema demonstrando a secreção de uma vesícula extracelular conten
 
 # **Dados suplementares**
 
-O ano de 2024 apresenta um aumento dos casos de dengue no continente americano, com maior número de casos até o momento em comparação com o ano anterior.
+O ano de 2024 apresenta um aumento dos casos de dengue no continente americano, com maior número de casos até o momento em comparação com o ano anterior. Brasil, Argentina, Colômbia e Paraguai apresentam os maiores aumentos de casos.
 
 ![LATAM cases](https://github.com/user-attachments/assets/3633281e-5aa8-4c9e-9724-9903390ab0fc)
 Figura 2: 10 países com maior número de casos de dengue reportados em 2023 e número de casos atuais (2024):
 Fonte: (https://www3.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/254-dengue-incidencia-en.html)
 
 
-Alvos para os miRNAs encontrados com expressão aumentada nos casos de dengue hemorrágica:
+
+
+Rede de genes alvo de regulação de pelo menos 3 dos miRNAs encontrados com expressão aumentada nos casos de dengue hemorrágica:
 ![image](https://github.com/user-attachments/assets/e400f2c6-507d-46cc-a8d7-2a529a7d2550)
 Figura 3: Rede de miR-Target (mirtarbase, base de dados de alvos validados experimentalmente)
 
+
+
+
 ![all genes-medium specificity- p-0 01_layout2](https://github.com/user-attachments/assets/4f49007d-117b-48aa-b622-d0a3d0147840)
 Figura 4: ClueGO (Cytoscape plugin) enrichment network 
+
 
 
 
