@@ -17,18 +17,21 @@ O ano de 2024 apresenta um aumento dos casos de dengue no continente americano, 
 Figura 2: 10 países com maior número de casos de dengue reportados em 2023 e número de casos atuais (2024):
 Fonte: (https://www3.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/254-dengue-incidencia-en.html)
 
+
+Alvos para os miRNAs encontrados com expressão aumentada nos casos de dengue hemorrágica:
 ![image](https://github.com/user-attachments/assets/e400f2c6-507d-46cc-a8d7-2a529a7d2550)
-Rede de miR-Target (mirtarbase)
+Figura 3: Rede de miR-Target (mirtarbase, base de dados de alvos validados experimentalmente)
 
 ![all genes-medium specificity- p-0 01_layout2](https://github.com/user-attachments/assets/4f49007d-117b-48aa-b622-d0a3d0147840)
-ClueGO enrichment network
+Figura 4: ClueGO (Cytoscape plugin) enrichment network 
 
 
 
-Enriquecimento
+Enriquecimento dos genes alvos de miRNAs com expressão aumentada
 ![Cell Death-Apoptosis Pathways_h_viridis](https://github.com/user-attachments/assets/4d14d1c3-65bc-46f4-a119-6ac34842c60e)
-<img src = "https://github.com/user-attachments/assets/4d14d1c3-65bc-46f4-a119-6ac34842c60e" width="100" height="100">
-
 ![DNA Damage-Instability Pathways_h_viridis](https://github.com/user-attachments/assets/61292633-3e66-47bc-ba06-39acbe010cd2)
 
+
+
+Citometria de fluxo para caracterização de EVs extraídas do soro dos pacientes
 ![image](https://github.com/user-attachments/assets/cb525669-9b67-4475-bfc2-80ee57e9fe06)
