@@ -20,12 +20,12 @@ Fonte: (https://www3.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en
 
 
 
-Rede de genes alvo de regulação de pelo menos 3 dos miRNAs encontrados com expressão aumentada nos casos de dengue hemorrágica:
+Rede de genes alvo de regulação de pelo menos 3 dos miRNAs encontrados com expressão aumentada nos casos de dengue hemorrágica. Para construção da rede, a base de dados miRTarBase foi consultada; nesta base constam genes que são alvos de miRNAs e tiveram sua interação miR-Gene experimentalmente validada.
 ![image](https://github.com/user-attachments/assets/e400f2c6-507d-46cc-a8d7-2a529a7d2550)
 Figura 3: Rede de miR-Target (mirtarbase, base de dados de alvos validados experimentalmente)
 
 
-
+Rede de enriquecimento demonstrando termos enriquecidos com relação aos genes-alvo dos miRNAs com expressão diferencial em indivíduos com dengue hemorrágica.
 
 ![all genes-medium specificity- p-0 01_layout2](https://github.com/user-attachments/assets/4f49007d-117b-48aa-b622-d0a3d0147840)
 Figura 4: ClueGO (Cytoscape plugin) enrichment network 
@@ -33,7 +33,8 @@ Figura 4: ClueGO (Cytoscape plugin) enrichment network
 
 
 
-Enriquecimento dos genes alvos de miRNAs com expressão aumentada
+Enriquecimento dos genes alvos de miRNAs com expressão aumentada. Demonstramos aqui termos enriquecidos concordantes entre o método utilizado para criação da rede de enriquecimento e o enriquecimento isolado.
+Analise conduzida pela plataforma _Enrichr_
 ![Cell Death-Apoptosis Pathways_h_viridis](https://github.com/user-attachments/assets/4d14d1c3-65bc-46f4-a119-6ac34842c60e)
 ![DNA Damage-Instability Pathways_h_viridis](https://github.com/user-attachments/assets/61292633-3e66-47bc-ba06-39acbe010cd2)
 
